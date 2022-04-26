@@ -21,4 +21,4 @@ async void GodTimer()
     user.IsDead = true;
 }
 
-// powered by 
+// github.com/ev-vl-kotov/PrintProgrammer
