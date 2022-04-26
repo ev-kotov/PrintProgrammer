@@ -1,0 +1,15 @@
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\bin\Debug\net6.0\PrintProgrammer.exe
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\bin\Debug\net6.0\PrintProgrammer.deps.json
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\bin\Debug\net6.0\PrintProgrammer.runtimeconfig.json
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\bin\Debug\net6.0\PrintProgrammer.dll
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\bin\Debug\net6.0\PrintProgrammer.pdb
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.csproj.AssemblyReference.cache
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.AssemblyInfoInputs.cache
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.AssemblyInfo.cs
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.dll
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\refint\PrintProgrammer.dll
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.pdb
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\PrintProgrammer.genruntimeconfig.cache
+C:\Users\super\RiderProjects\PrintProgrammer\PrintProgrammer\obj\Debug\net6.0\ref\PrintProgrammer.dll
